@@ -35,10 +35,10 @@
 
 | Проект | Описание | Стек |
 | --- | --- | --- |
-| 🤖 **rag-dispatcher-assistant** | RAG-ассистент: умный поиск по документам с потоковыми ответами | FastAPI · RAG · pgvector · embeddings |
+| 🤖 **rag-dispatcher-assistant** | RAG-ассистент: умный поиск по документам с потоковыми ответами | Python · FastAPI · RAG · pgvector · embeddings |
 | 📈 **momentum-flip-strategy** | Трейдинг-стратегия с бэктестами, отчётами и матчастью | Python · pandas · backtesting |
 | 💬 **cleopatra_ai** | AI-ассистент для монетизации авторов | Python · LLM · API |
-| 👗 **fesh** | Luxury-маркетплейс одежды, собранный end-to-end | Flutter · Dart · Supabase |
+| 👗 **fesh** | Luxury-соцсеть одежды, собранная end-to-end | Flutter · Dart · Supabase |
 
 ---
 
